@@ -12,7 +12,6 @@ Debes tener instalado mosquitto en tu maquina. Para eso debes ingresar al siguie
 Instalar Open SSL desde el siguiente link https://www.openssl.org/source/
 
 
-End with an example of getting some data out of the system or using it for a little demo
 
 ### Uso
 
